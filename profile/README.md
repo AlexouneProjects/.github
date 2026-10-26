@@ -1,138 +1,181 @@
 <p align="center">
-  <img src="https://github.com/Alexoune001.png?size=200" alt="Alexoune001" width="125" />
+  <img src="https://github.com/AlexouneProjects.png?size=200" alt="AlexouneProjects" width="140" />
 </p>
 
 <h1 align="center">🚀 AlexouneProjects</h1>
 
 <p align="center">
-  <strong>Projets personnels • Développement • Expérimentations • Archives</strong>
+  <strong>Projets personnels • Expérimentations • Développement • Archives</strong>
 </p>
 
 <p align="center">
-  <em>Un espace pour créer, expérimenter, apprendre et préserver mes anciens projets.</em>
+  <em>Créer, apprendre, expérimenter et préserver mes anciens projets.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Alexoune001">👤 Mon profil GitHub</a>
+  <a href="https://github.com/Alexoune001">👤 Alexoune001</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/DrastalOnline">🎮 Drastal Online</a>
+  <a href="https://github.com/DrastalOnline">🎮 DrastalOnline</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/WebAlexSolutions">💻 WebAlex Solutions</a>
+  <a href="https://github.com/WebAlexSolutions">💻 WebAlexSolutions</a>
 </p>
 
 ---
 
 ## 👋 Bienvenue sur AlexouneProjects
 
-**AlexouneProjects** est une organisation GitHub personnelle créée pour centraliser mes projets indépendants, mes expérimentations techniques et mes anciens travaux de développement.
+**AlexouneProjects** est mon organisation GitHub consacrée aux projets de développement personnels, aux expérimentations techniques et à la conservation de mes anciens travaux.
 
-Je suis **[Alexoune001](https://github.com/Alexoune001)**, développeur passionné par les technologies web, les applications Windows et le développement de jeux vidéo.
+Je suis **[Alexoune001](https://github.com/Alexoune001)**, développeur web indépendant et passionné par la programmation, les applications Windows et le développement de jeux vidéo.
 
-Au fil des années, j'ai développé différents logiciels, prototypes, sites web et outils techniques.
+Au fil des années, j'ai réalisé différents projets, découvert plusieurs technologies et expérimenté diverses architectures.
 
-Cette organisation me permet de conserver ces projets dans un espace structuré, tout en séparant clairement mes activités professionnelles et mes projets personnels.
+Cette organisation me permet de regrouper ces travaux sans mélanger :
+- Mon activité professionnelle **WebAlex Solutions**.
+- Le développement officiel du jeu **Drastal Online**.
+- Mes projets personnels et mes archives techniques.
 
-## 🗂️ Organisation des projets
+---
+
+## 🗂️ Les univers d'AlexouneProjects
 
 <details open>
 <summary><strong>🧪 Laboratoires et expérimentations</strong></summary>
 
-Prototypes, essais techniques, exercices de programmation et projets destinés à découvrir ou approfondir différentes technologies.
+Projets d'apprentissage, applications de démonstration, exercices de programmation et expérimentations autour de différentes technologies.
 
-Ces travaux peuvent être expérimentaux, incomplets ou conservés à des fins d'apprentissage.
-
-</details>
-
-<details>
-<summary><strong>🖥️ Applications et logiciels personnels</strong></summary>
-
-Applications de bureau, outils de développement, utilitaires et logiciels réalisés pour répondre à des besoins personnels ou explorer de nouvelles fonctionnalités.
-
-Certains projets peuvent continuer à évoluer au fil du temps.
-
-</details>
-
-<details>
-<summary><strong>🎮 Jeux vidéo et anciens moteurs</strong></summary>
-
-Projets historiques liés au développement de jeux vidéo, moteurs, éditeurs, prototypes et expérimentations de gameplay.
-
-Ces archives témoignent des différentes étapes de mon apprentissage et de mon parcours technique.
+Ces dépôts permettent de conserver des essais techniques et de retrouver d'anciennes implémentations.
 
 </details>
 
 <details>
 <summary><strong>🌐 Développement web</strong></summary>
 
-Sites de démonstration, applications web, prototypes et expérimentations réalisés notamment avec PHP, Symfony, JavaScript et MySQL.
+Prototypes de sites internet, applications web, interfaces et expérimentations utilisant différentes technologies front-end et back-end.
+
+Certains projets correspondent à d'anciennes versions d'outils ou à des exercices techniques.
 
 </details>
 
 <details>
-<summary><strong>📦 Archives et anciens projets</strong></summary>
+<summary><strong>🖥️ Logiciels et utilitaires</strong></summary>
 
-Projets terminés, abandonnés, remplacés ou conservés pour leur intérêt historique et technique.
+Applications personnelles, utilitaires, petits programmes et expérimentations autour du développement logiciel.
 
-Leur archivage permet de préserver les sources et les différentes étapes de leur développement.
+Ces projets peuvent être conservés comme références ou repris ultérieurement.
+
+</details>
+
+<details>
+<summary><strong>🎮 Jeux vidéo et moteurs</strong></summary>
+
+Anciens projets de jeux, prototypes, lanceurs, expérimentations de moteurs et références techniques accumulées au fil des années.
+
+Le développement officiel et actuel de Drastal Online se trouve dans une organisation distincte :
+
+[🎮 Organisation DrastalOnline](https://github.com/DrastalOnline)
+
+</details>
+
+<details>
+<summary><strong>📦 Archives historiques</strong></summary>
+
+Une partie importante de cette organisation est consacrée à la conservation des anciens projets.
+
+Ces archives permettent notamment de :
+- Préserver les historiques de développement.
+- Retrouver d'anciennes versions.
+- Comparer différentes approches techniques.
+- Conserver les étapes de mon apprentissage.
+
+Un dépôt archivé n'est pas nécessairement maintenu ou compatible avec les technologies actuelles.
 
 </details>
 
 ---
 
-## 🧰 Technologies utilisées
+## 🌍 Quelques projets publics
+
+Cette sélection regroupe uniquement des dépôts actuellement publics.
+
+| Projet | Accès |
+|---|---|
+| FRoG Creator OSE | [FRoG-Creator-OSE](https://github.com/AlexouneProjects/FRoG-Creator-OSE) |
+| FRoG Creator OSE v0.6.3 | [FRoG-Creator-OSE-V0.6.3](https://github.com/AlexouneProjects/FRoG-Creator-OSE-V0.6.3) |
+| Pokédex | [pokedex](https://github.com/AlexouneProjects/pokedex) |
+| Projet d'exemple | [example_project](https://github.com/AlexouneProjects/example_project) |
+| Application de notes | [notes_project](https://github.com/AlexouneProjects/notes_project) |
+| Liste de tâches | [todolist_project](https://github.com/AlexouneProjects/todolist_project) |
+| Projet de test | [SiteDeTest-Functions](https://github.com/AlexouneProjects/SiteDeTest-Functions) |
+
+<details>
+<summary><strong>📜 Autres références publiques archivées</strong></summary>
+
+- [Intersect-Documentation](https://github.com/AlexouneProjects/Intersect-Documentation)
+- [intersect-connect-projects](https://github.com/AlexouneProjects/intersect-connect-projects)
+
+Ces dépôts sont archivés et peuvent ne plus recevoir de mises à jour.
+
+</details>
+
+**Attention :** la publication d'un dépôt ne signifie pas nécessairement que son code est librement réutilisable. Les licences et les éventuelles attributions doivent être respectées.
+
+---
+
+## 🧰 Technologies explorées
 
 | Domaine | Technologies |
 |---|---|
-| 🌐 Développement web | HTML, CSS, JavaScript, PHP, Symfony |
-| 🗄️ Bases de données | MySQL |
-| 🖥️ Applications Windows | C#, .NET, Windows Forms |
-| 🎮 Développement de jeux | C#, MonoGame et outils associés |
-| 🔧 Versionnement | Git et GitHub |
-| 🛠️ Environnement de développement | Visual Studio, VS Code, PowerShell |
+| Développement web | HTML, CSS, JavaScript, PHP, Symfony |
+| Bases de données | MySQL |
+| Applications Windows | C#, .NET, Windows Forms |
+| Jeux vidéo | C#, moteurs et outils de développement |
+| Versionnement | Git, GitHub |
+| Environnement de travail | Visual Studio, VS Code, PowerShell |
 
-Les technologies employées varient selon l'ancienneté, la nature et les objectifs de chaque projet.
+La liste reflète différentes périodes de développement. Tous les projets ne reposent pas sur les mêmes versions de ces technologies.
 
-## 🔗 Mes autres organisations
+---
+
+## 🧭 Mes autres espaces GitHub
 
 ### 🎮 Drastal Online
 
-**[Découvrir DrastalOnline](https://github.com/DrastalOnline)**
-
-Organisation officielle de mon projet de jeu vidéo Drastal Online, un ORPG 2D médiéval-fantasy, gratuit et francophone.
+[**DrastalOnline**](https://github.com/DrastalOnline) est l'organisation officielle de mon ORPG 2D médiéval-fantasy, gratuit et francophone.
 
 🌐 [Site officiel Drastal Online](https://www.drastalonline.fr)
 
 ### 💻 WebAlex Solutions
 
-**[Découvrir WebAlexSolutions](https://github.com/WebAlexSolutions)**
-
-Organisation consacrée à mon activité professionnelle de développeur web indépendant, à mes projets clients et à mes outils internes.
+[**WebAlexSolutions**](https://github.com/WebAlexSolutions) est mon organisation professionnelle, consacrée au développement web, aux projets clients et à mes outils internes.
 
 🌐 [Site officiel WebAlex Solutions](https://www.webalexsolutions.fr)
 
+### 👤 Alexoune001
+
+[**Alexoune001**](https://github.com/Alexoune001) est mon compte GitHub principal, sur lequel je présente mon activité et conserve certains projets personnels.
+
 ---
 
-## 🔒 Confidentialité et utilisation du code
+## 🔒 Confidentialité et conservation
 
-Cette organisation peut contenir des dépôts publics et privés.
+AlexouneProjects regroupe des dépôts publics et privés.
 
-- Les dépôts privés sont réservés aux personnes autorisées.
-- Les projets publics sont accessibles en consultation.
-- La présence publique d'un code source ne signifie pas nécessairement qu'il est librement réutilisable.
-- Les conditions de réutilisation sont définies par la licence propre à chaque dépôt, lorsqu'une licence est présente.
-- Les anciens projets peuvent ne plus être maintenus ou compatibles avec les environnements actuels.
-
-Les projets présentés ici sont principalement des créations personnelles, des démonstrations ou des archives techniques.
+- Les dépôts privés sont accessibles uniquement aux personnes autorisées.
+- Les dépôts publics peuvent être consultés selon leurs conditions de licence.
+- Les projets archivés sont conservés pour leur intérêt historique et technique.
+- Certains anciens projets ne sont plus maintenus.
+- Les configurations sensibles et les informations confidentielles ne sont pas publiées.
 
 ---
 
 ## 👤 À propos
 
-Je suis **Alexoune001**, développeur indépendant et créateur de projets numériques.
+Je suis **Alexoune001**, développeur indépendant et créateur de projets informatiques.
 
-Cette organisation représente une partie de mon parcours, de mes expériences et de mes expérimentations dans le développement informatique.
+AlexouneProjects reflète mon parcours, mes expériences et ma volonté de conserver mes travaux, même lorsqu'un projet a été remplacé ou abandonné.
 
-Je conserve mes anciens projets parce qu'ils témoignent aussi de ma progression au fil des années.
+Chaque réalisation représente une expérience et une occasion d'apprendre.
 
 ---
 
@@ -141,7 +184,7 @@ Je conserve mes anciens projets parce qu'ils témoignent aussi de ma progression
 </p>
 
 <p align="center">
-  <em>Chaque projet représente une expérience, une idée ou une étape d'apprentissage.</em>
+  <em>Créer • Expérimenter • Apprendre • Préserver</em>
 </p>
 
 <p align="center">
